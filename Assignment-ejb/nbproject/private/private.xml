@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/dominhduc/Downloads/java/framword/Assignment/Assignment-ejb/src/conf/persistence.xml</file>
+            <file>file:/Users/dominhduc/Downloads/java/framword/Assignment/Assignment-ejb/src/conf/MANIFEST.MF</file>
+            <file>file:/Users/dominhduc/Downloads/java/framword/Assignment/Assignment-ejb/src/java/com/fpt/session/UsersFacade.java</file>
+            <file>file:/Users/dominhduc/Downloads/java/framword/Assignment/Assignment-ejb/src/java/com/fpt/entity/Users.java</file>
+            <file>file:/Users/dominhduc/Downloads/java/framword/Assignment/Assignment-ejb/src/java/com/fpt/session/AbstractFacade.java</file>
+            <file>file:/Users/dominhduc/Downloads/java/framword/Assignment/Assignment-ejb/src/conf/glassfish-resources.xml</file>
+            <file>file:/Users/dominhduc/Downloads/java/framword/Assignment/Assignment-ejb/src/java/com/fpt/session/UsersFacadeLocal.java</file>
+        </group>
+    </open-files>
+</project-private>
